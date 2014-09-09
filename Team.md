@@ -1,7 +1,7 @@
 # WRD R&D Team
 
 ## Members
-* [@westurner](https://github.com/westurner) (wes@wrd.nu)
+* [@westurner](https://github.com/westurner) (wes@wrd.nu, wes@wrdrd.com)
 
 ## Apps
 * [google.com/a/wrd.nu](https://google.com/a/wrd.nu)
