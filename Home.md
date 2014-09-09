@@ -8,7 +8,6 @@
 ## Links
 * [www.wrdrd.com](http://www.wrdrd.com/)
 * [twitter.com/wrdrd](https://twitter.com/wrdrd)
-* [facebook.com/wrdrd](https://facebook.com/wrd.rd)
 
 ## Tools
 * [google.com/apps](https://www.google.com/apps)
