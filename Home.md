@@ -1,9 +1,11 @@
 # WRD R&D Wiki
 [github.com/wrdrd/wiki/wiki](https://github.com/wrdrd/wiki/wiki)
 
+[wrdrd.github.io](https://wrdrd.github.io/)
+
+[wrdrd.github.io/docs/](https://wrdrd.github.io/docs/)
+
 ## Links
-* [wrdrd.github.io](https://wrdrd.github.io/)
-* [wrdrd.github.io/docs/](https://wrdrd.github.io/docs/)
 * [www.wrdrd.com](http://www.wrdrd.com/)
 * [twitter.com/wrdrd](https://twitter.com/wrdrd)
 * [facebook.com/wrdrd](https://facebook.com/wrd.rd)
