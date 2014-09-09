@@ -4,7 +4,6 @@
 ## links
 * [wrdrd.github.io](https://wrdrd.github.io/)
 * [wrdrd.github.io/docs/](https://wrdrd.github.io/docs/)
-* [www.wrd.nu](http://www.wrd.nu/)
 * [www.wrdrd.com](http://www.wrdrd.com/)
 * [twitter.com/wrdrd](https://twitter.com/wrdrd)
 * [facebook.com/wrdrd](https://facebook.com/wrd.rd)
