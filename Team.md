@@ -19,7 +19,7 @@
 
 
 ## Groups
-* https://groups.google.com/forum/#!myforums
-* (wrdrd-group@wrd.nu) https://groups.google.com/forum/#!forum/wrdrd-group
-* (wrd-support@wrd.nu) https://groups.google.com/forum/#!forum/wrd-support
+* (wrdrd-group@googlegroups.com) https://groups.google.com/forum/#!forum/wrdrd-group
+* (wrdrd-dev@googlegroups.com) https://groups.google.com/forum/#!forum/wrdrd-dev
+* (wrdrd-support@googlegroups.com) https://groups.google.com/forum/#!forum/wrdrd-support
   
