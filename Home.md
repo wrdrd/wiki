@@ -8,21 +8,6 @@
 * [twitter.com/wrdrd](https://twitter.com/wrdrd)
 * [facebook.com/wrdrd](https://facebook.com/wrd.rd)
 
-## Apps
-
-* [google.com/a/wrd.nu](https://google.com/a/wrd.nu)
-* [drive.google.com/](https://drive.google.com/drive/)
-  (d.wrd.nu)
-* [mail.google.com/a/wrd.nu](https://mail.google.com/a/wrd.nu)
-  (m.wrd.nu)
-* [calendar.google.com/a/wrd.nu](https://calendar.google.com/a/wrd.nu)
-  (c.wrd.nu)
-* https://www.google.com/calendar/hosted/wrd.nu
-* [sites.google.com/a/wrd.nu](https://sites.google.com/a/wrd.nu)
-  (sites.wrd.nu)
-* [appengine.google.com/a/wrd.nu](https://appengine.google.com/a/wrd.nu) (ae.wrd.nu)
-* [admin.google.com/](https://admin.google.com/) (admin.wrd.nu)
-
 ## Tools
 * [google.com/apps](https://www.google.com/apps)
 * [google.com/dashboard](https://www.google.com/dashboard/)
@@ -33,14 +18,4 @@
 * [github.com/westurner/goread](https://github.com/westurner/goread)
 * [github.com/wrd/docs/wrdsbc/tools](https://github.com/wrd/docs/tree/master/wrdsbc/tools)
 * [github.com/westurner/wiki/wiki/projects](https://github.com/westurner/wiki/wiki/projects)
-
-## Groups
-* https://groups.google.com/forum/#!myforums
-* https://groups.google.com/forum/#!forum/wrd-group
-  (wrd-group@wrd.nu)
-* https://groups.google.com/forum/#!forum/wrd-support
-  (wrd-support@wrd.nu)
-
-## Team
-* [@westurner](https://github.com/westurner) (wes@wrd.nu)
 
