@@ -1,7 +1,7 @@
 # WRD R&D Wiki
 [github.com/wrdrd/wiki/wiki](https://github.com/wrdrd/wiki/wiki)
 
-[wrdrd.github.io](https://wrdrd.github.io/)
+[wrdrd.github.io/](https://wrdrd.github.io/)
 
 [wrdrd.github.io/docs/](https://wrdrd.github.io/docs/)
 
