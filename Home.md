@@ -1,14 +1,14 @@
-# wrd r&d wiki
+# WRD R&D Wiki
 [github.com/wrdrd/wiki/wiki](https://github.com/wrdrd/wiki/wiki)
 
-## links
+## Links
 * [wrdrd.github.io](https://wrdrd.github.io/)
 * [wrdrd.github.io/docs/](https://wrdrd.github.io/docs/)
 * [www.wrdrd.com](http://www.wrdrd.com/)
 * [twitter.com/wrdrd](https://twitter.com/wrdrd)
 * [facebook.com/wrdrd](https://facebook.com/wrd.rd)
 
-## apps
+## Apps
 
 * [google.com/a/wrd.nu](https://google.com/a/wrd.nu)
 * [drive.google.com/](https://drive.google.com/drive/)
@@ -23,7 +23,7 @@
 * [appengine.google.com/a/wrd.nu](https://appengine.google.com/a/wrd.nu) (ae.wrd.nu)
 * [admin.google.com/](https://admin.google.com/) (admin.wrd.nu)
 
-## tools
+## Tools
 * [google.com/apps](https://www.google.com/apps)
 * [google.com/dashboard](https://www.google.com/dashboard/)
 * [google.com/hangouts](http://www.google.com/hangouts/)
@@ -34,13 +34,13 @@
 * [github.com/wrd/docs/wrdsbc/tools](https://github.com/wrd/docs/tree/master/wrdsbc/tools)
 * [github.com/westurner/wiki/wiki/projects](https://github.com/westurner/wiki/wiki/projects)
 
-## groups
+## Groups
 * https://groups.google.com/forum/#!myforums
 * https://groups.google.com/forum/#!forum/wrd-group
   (wrd-group@wrd.nu)
 * https://groups.google.com/forum/#!forum/wrd-support
   (wrd-support@wrd.nu)
 
-## team
+## Team
 * [@westurner](https://github.com/westurner) (wes@wrd.nu)
 
