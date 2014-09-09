@@ -20,7 +20,6 @@
 
 ## Groups
 * https://groups.google.com/forum/#!myforums
-* https://groups.google.com/forum/#!forum/wrd-group
-  (wrd-group@wrd.nu)
-* https://groups.google.com/forum/#!forum/wrd-support
-  (wrd-support@wrd.nu)
+* (wrd-group@wrd.nu) https://groups.google.com/forum/#!forum/wrd-group
+* (wrd-support@wrd.nu) https://groups.google.com/forum/#!forum/wrd-support
+  
