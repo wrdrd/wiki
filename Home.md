@@ -17,6 +17,6 @@
 * [domains.google.com/registrar](https://domains.google.com/registrar)
 * [github.com/mjibson/goread](https://github.com/mjibson/goread)
 * [github.com/westurner/goread](https://github.com/westurner/goread)
-* [github.com/wrd/docs/wrdsbc/tools](https://github.com/wrd/docs/tree/master/wrdsbc/tools)
+* [github.com/wrdrd/docs/wrdsbc/tools](https://github.com/wrdrd/docs/tree/master/wrdsbc/tools)
 * [github.com/westurner/wiki/wiki/projects](https://github.com/westurner/wiki/wiki/projects)
 
