@@ -1,0 +1,16 @@
+
+
+wrdrd/wiki
+================
+
+Contents:
+
+.. toctree::
+
+   team
+
+
+******
+
+@ `wrdrd.github.io <https://wrdrd.github.io/>`__
+
