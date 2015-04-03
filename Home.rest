@@ -7,5 +7,5 @@ Welcome to `<https://github.com/wrdrd/wiki/wiki>`_
 ******
 
 | `github.com/wrdrd/wiki/wiki <https://github.com/wrdrd/wiki/wiki>`_
-| `wrdrd.github.io/wiki <https://wrdrd.github.io/wiki/>`_
-| `wrdrd.github.io <https://wrdrd.github.io/>`_
+| `wrdrd.com/wiki <https://wrdrd.com/wiki/>`_
+| `wrdrd.com <https://wrdrd.com/>`_
